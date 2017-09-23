@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: a49e5259ece00f742b119b51bdcd967e
+timeCreated: 1502902864
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Contour_porte
+    100004: //RootNode
+    100006: MultiMesher001
+    100008: MultiMesher002
+    100010: Object001
+    100012: Pieux
+    100014: Plane001
+    100016: Plane002
+    100018: "Poign\xE9e"
+    100020: "Poign\xE9e001"
+    100022: "Poign\xE9e002"
+    100024: "Poign\xE9e003"
+    100026: PorteG
+    100028: PorteG001
+    100030: "Sous-poign\xE9e"
+    100032: "Sous-poign\xE9e001"
+    100034: "Sous-poign\xE9e002"
+    100036: "Sous-poign\xE9e003"
+    400000: Box001
+    400002: Contour_porte
+    400004: //RootNode
+    400006: MultiMesher001
+    400008: MultiMesher002
+    400010: Object001
+    400012: Pieux
+    400014: Plane001
+    400016: Plane002
+    400018: "Poign\xE9e"
+    400020: "Poign\xE9e001"
+    400022: "Poign\xE9e002"
+    400024: "Poign\xE9e003"
+    400026: PorteG
+    400028: PorteG001
+    400030: "Sous-poign\xE9e"
+    400032: "Sous-poign\xE9e001"
+    400034: "Sous-poign\xE9e002"
+    400036: "Sous-poign\xE9e003"
+    2300000: Box001
+    2300002: Contour_porte
+    2300004: MultiMesher001
+    2300006: MultiMesher002
+    2300008: Object001
+    2300010: Pieux
+    2300012: Plane001
+    2300014: Plane002
+    2300016: "Poign\xE9e"
+    2300018: "Poign\xE9e001"
+    2300020: "Poign\xE9e002"
+    2300022: "Poign\xE9e003"
+    2300024: PorteG
+    2300026: PorteG001
+    2300028: "Sous-poign\xE9e"
+    2300030: "Sous-poign\xE9e001"
+    2300032: "Sous-poign\xE9e002"
+    2300034: "Sous-poign\xE9e003"
+    3300000: Box001
+    3300002: Contour_porte
+    3300004: MultiMesher001
+    3300006: MultiMesher002
+    3300008: Object001
+    3300010: Pieux
+    3300012: Plane001
+    3300014: Plane002
+    3300016: "Poign\xE9e"
+    3300018: "Poign\xE9e001"
+    3300020: "Poign\xE9e002"
+    3300022: "Poign\xE9e003"
+    3300024: PorteG
+    3300026: PorteG001
+    3300028: "Sous-poign\xE9e"
+    3300030: "Sous-poign\xE9e001"
+    3300032: "Sous-poign\xE9e002"
+    3300034: "Sous-poign\xE9e003"
+    4300000: Plane001
+    4300002: Plane002
+    4300004: Contour_porte
+    4300006: PorteG
+    4300008: "Sous-poign\xE9e"
+    4300010: "Poign\xE9e"
+    4300012: "Sous-poign\xE9e002"
+    4300014: "Poign\xE9e002"
+    4300016: PorteG001
+    4300018: "Sous-poign\xE9e001"
+    4300020: "Poign\xE9e001"
+    4300022: "Sous-poign\xE9e003"
+    4300024: "Poign\xE9e003"
+    4300026: Box001
+    4300028: MultiMesher001
+    4300030: Pieux
+    4300032: MultiMesher002
+    4300034: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
